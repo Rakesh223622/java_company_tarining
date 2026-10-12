@@ -9,7 +9,7 @@ basic Java application development.
 Date: 12 October 2026
 
 ## Tools
-- JDK: []
+- JDK: [javaSE-25]
 - IDE: Visual Studio Code
 - Version Control: Git
 - Operating System: Windows
