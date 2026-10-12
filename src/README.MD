@@ -24,7 +24,7 @@ javac -d out src/com/company/training/HelloWorld.java
 java -cp out com.company.training.HelloWorld
 
 ## Expected Output
-Hello, World!
+Hello, World !
 Java Development Environment Setup
 Day 1 Task Completed Successfully
 
