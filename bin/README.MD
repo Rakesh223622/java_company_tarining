@@ -9,7 +9,7 @@ basic Java application development.
 Date: 12 October 2026
 
 ## Tools
-- JDK: [javaSE-25]
+- JDK: [Enter installed version]
 - IDE: Visual Studio Code
 - Version Control: Git
 - Operating System: Windows
@@ -24,7 +24,7 @@ javac -d out src/com/company/training/HelloWorld.java
 java -cp out com.company.training.HelloWorld
 
 ## Expected Output
-Hello, World!
+Hello, World !
 Java Development Environment Setup
 Day 1 Task Completed Successfully
 
